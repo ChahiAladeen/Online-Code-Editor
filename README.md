@@ -4,7 +4,7 @@
  
 ## About
 
-this is an online code editor supporting a huge range of languages as well as a multitude of themes.
+This is an online code editor supporting a huge range of languages as well as a multitude of themes.
 
 ## Documentation 
 

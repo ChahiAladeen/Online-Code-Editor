@@ -8,7 +8,7 @@ this is an online code editor supporting a huge range of languages as well as a 
 
 ## Documentation 
 
-Find documentations [here](https://ace.c9.io/).
+Find documentation [here](https://ace.c9.io/).
 
 ## USE
 
